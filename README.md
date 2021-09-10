@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Liuyq617/liuyq617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Josie Lane
 - ⚡ Fun fact: Those two back-end developers share the same branch!
 
+## Technologies & Tools 🔧
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
