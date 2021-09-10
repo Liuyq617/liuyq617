@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liuyq@jackyun.com
 - 😄 Pronouns: Josie Lane
 - ⚡ Fun fact: Those two back-end developers share the same branch!
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
